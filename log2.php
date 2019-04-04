@@ -135,8 +135,8 @@ require 'C:\xampp\htdocs\PHPMailer-master\PHPMailerAutoload.php';
                            			$mail->isSMTP();// Set mailer to use SMTP
                             		$mail->Host = 'smtp.gmail.com';  // Specify main and backup SMTP servers
                             		$mail->SMTPAuth = true;                               // Enable SMTP authentication
-                            		$mail->Username = 'opinionmining2016@gmail.com';                 // SMTP username
-                            		$mail->Password = 'opinionandsentiments';                           // SMTP password
+                            		$mail->Username = '####	';                 // SMTP username
+                            		$mail->Password = '#####';                           // SMTP password
                             		$mail->Port = 587; 
                             		$mail->setFrom('ankoojoshi1@gmail.com','CheapKart.com');
                             		$mail->addAddress($emailid, $username);     // Add a recipient

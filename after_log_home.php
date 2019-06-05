@@ -74,7 +74,7 @@ include "dbconfig/dbconfig.php" ;
 				<div class="item">
 					<img src="img\images-books\book2.jpg" alt="book2" >
 					<p align="center">One Indian Girl</p>
-					<p align="center">&#8377 106</p>
+					<p align="center"></p>
 					<p id="" align="center" title="Cart"><a href="">Explore</a></p>
 				</div>
 				<div class="item">

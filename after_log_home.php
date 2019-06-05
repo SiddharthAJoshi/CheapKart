@@ -68,7 +68,7 @@ include "dbconfig/dbconfig.php" ;
 				<div class="item">
 					<img src="img\images-books\book1.jpg" alt="Book1" >
 					<p align="center">The Fragrance of Rose</p>
-					<p align="center">&#8377 173</p>
+					<p align="center"></p>
 					<p id="" align="center" title="Cart"><a href="Book1.php">Explore</a></p>
 				</div>
 				<div class="item">
